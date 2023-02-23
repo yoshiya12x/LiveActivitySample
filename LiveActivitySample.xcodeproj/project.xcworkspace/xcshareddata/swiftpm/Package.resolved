@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pagertabstripview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xmartlabs/PagerTabStripView",
+      "state" : {
+        "branch" : "master",
+        "revision" : "46f2d1ee5df4899e07416027fab3fffbd2c6a277"
+      }
+    }
+  ],
+  "version" : 2
+}
